@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BullsCowsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-23T08:56:25" hostname="kajuga-pc" time="0.262">
+  <properties/>
+  <testcase name="start" classname="BullsCowsTest" time="0.262"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Input the length of the secret code:
+> 1
+Input the number of possible symbols in the code:
+> 10
+* (0-9)
+The secret is prepared: * (0-9).
+Okay, let's start a game!
+Turn 1:
+> 0
+Grade: None.
+Turn 2:
+> 1
+Grade: 1 bull(s).
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 2?[0m
+Input the length of the secret code:
+> 4
+Input the number of possible symbols in the code:
+> 10
+**** (0-9)
+The secret is prepared: **** (0-9).
+Okay, let's start a game!
+Turn 1:
+> 0000
+Grade: None.
+Turn 2:
+> 1111
+Grade: None.
+Turn 3:
+> 2222
+Grade: None.
+Turn 4:
+> 3333
+Grade: 1 bull(s).
+Turn 5:
+> 4444
+Grade: None.
+Turn 6:
+> 5555
+Grade: None.
+Turn 7:
+> 6666
+Grade: None.
+Turn 8:
+> 7777
+Grade: None.
+Turn 9:
+> 8888
+Grade: None.
+Turn 10:
+> 9999
+Grade: None.
+Turn 11:
+> aaaa
+Grade: None.
+Turn 12:
+> bbbb
+Grade: None.
+Turn 13:
+> cccc
+Grade: None.
+Turn 14:
+> dddd
+Grade: None.
+Turn 15:
+> eeee
+Grade: None.
+Turn 16:
+> ffff
+Grade: None.
+Turn 17:
+> gggg
+Grade: None.
+Turn 18:
+> hhhh
+Grade: None.
+Turn 19:
+> iiii
+Grade: None.
+Turn 20:
+> jjjj
+Grade: None.
+Turn 21:
+> kkkk
+Grade: None.
+Turn 22:
+> llll
+Grade: None.
+Turn 23:
+> mmmm
+Grade: None.
+Turn 24:
+> nnnn
+Grade: None.
+Turn 25:
+> oooo
+Grade: None.
+Turn 26:
+> pppp
+Grade: None.
+Turn 27:
+> qqqq
+Grade: None.
+Turn 28:
+> rrrr
+Grade: 1 bull(s).
+Turn 29:
+> ssss
+Grade: 1 bull(s).
+Turn 30:
+> tttt
+Grade: 1 bull(s).
+Turn 31:
+> 3rst
+Grade: 2 bull(s) and 2 cow(s).
+Turn 32:
+> r3st
+Grade: 4 bull(s).
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 3?[0m
+Input the length of the secret code:
+> 6
+Input the number of possible symbols in the code:
+> 10
+****** (0-9)
+The secret is prepared: ****** (0-9).
+Okay, let's start a game!
+Turn 1:
+> 000000
+Grade: None.
+Turn 2:
+> 111111
+Grade: None.
+Turn 3:
+> 222222
+Grade: None.
+Turn 4:
+> 333333
+Grade: None.
+Turn 5:
+> 444444
+Grade: 1 bull(s).
+Turn 6:
+> 555555
+Grade: None.
+Turn 7:
+> 666666
+Grade: None.
+Turn 8:
+> 777777
+Grade: None.
+Turn 9:
+> 888888
+Grade: None.
+Turn 10:
+> 999999
+Grade: None.
+Turn 11:
+> aaaaaa
+Grade: None.
+Turn 12:
+> bbbbbb
+Grade: None.
+Turn 13:
+> cccccc
+Grade: None.
+Turn 14:
+> dddddd
+Grade: None.
+Turn 15:
+> eeeeee
+Grade: 1 bull(s).
+Turn 16:
+> ffffff
+Grade: None.
+Turn 17:
+> gggggg
+Grade: None.
+Turn 18:
+> hhhhhh
+Grade: None.
+Turn 19:
+> iiiiii
+Grade: None.
+Turn 20:
+> jjjjjj
+Grade: None.
+Turn 21:
+> kkkkkk
+Grade: None.
+Turn 22:
+> llllll
+Grade: None.
+Turn 23:
+> mmmmmm
+Grade: None.
+Turn 24:
+> nnnnnn
+Grade: None.
+Turn 25:
+> oooooo
+Grade: None.
+Turn 26:
+> pppppp
+Grade: None.
+Turn 27:
+> qqqqqq
+Grade: 1 bull(s).
+Turn 28:
+> rrrrrr
+Grade: 1 bull(s).
+Turn 29:
+> ssssss
+Grade: None.
+Turn 30:
+> tttttt
+Grade: None.
+Turn 31:
+> uuuuuu
+Grade: None.
+Turn 32:
+> vvvvvv
+Grade: 1 bull(s).
+Turn 33:
+> wwwwww
+Grade: 1 bull(s).
+Turn 34:
+> 4eqrvw
+Grade: 2 bull(s) and 4 cow(s).
+Turn 35:
+> e4qrvw
+Grade: 2 bull(s) and 4 cow(s).
+Turn 36:
+> q4ervw
+Grade: 3 bull(s) and 3 cow(s).
+Turn 37:
+> 4qervw
+Grade: 2 bull(s) and 4 cow(s).
+Turn 38:
+> eq4rvw
+Grade: 3 bull(s) and 3 cow(s).
+Turn 39:
+> qe4rvw
+Grade: 4 bull(s) and 2 cow(s).
+Turn 40:
+> re4qvw
+Grade: 3 bull(s) and 3 cow(s).
+Turn 41:
+> er4qvw
+Grade: 4 bull(s) and 2 cow(s).
+Turn 42:
+> 4reqvw
+Grade: 3 bull(s) and 3 cow(s).
+Turn 43:
+> r4eqvw
+Grade: 2 bull(s) and 4 cow(s).
+Turn 44:
+> e4rqvw
+Grade: 2 bull(s) and 4 cow(s).
+Turn 45:
+> 4erqvw
+Grade: 2 bull(s) and 4 cow(s).
+Turn 46:
+> 4qrevw
+Grade: 3 bull(s) and 3 cow(s).
+Turn 47:
+> q4revw
+Grade: 4 bull(s) and 2 cow(s).
+Turn 48:
+> r4qevw
+Grade: 3 bull(s) and 3 cow(s).
+Turn 49:
+> 4rqevw
+Grade: 4 bull(s) and 2 cow(s).
+Turn 50:
+> qr4evw
+Grade: 6 bull(s).
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 4?[0m
+Input the length of the secret code:
+> 11
+Input the number of possible symbols in the code:
+> 10
+Error: it's not possible to generate a code with a length of 6 with 5 unique symbols.
+?[1;31m
+Start test 5?[0m
+Input the length of the secret code:
+> 4
+Input the number of possible symbols in the code:
+> 16
+**** (0-9, a-f).
+The secret is prepared: **** (0-9, a-f)..
+Okay, let's start a game!
+Turn 1:
+> 0000
+Grade: None.
+Turn 2:
+> 1111
+Grade: None.
+Turn 3:
+> 2222
+Grade: None.
+Turn 4:
+> 3333
+Grade: None.
+Turn 5:
+> 4444
+Grade: None.
+Turn 6:
+> 5555
+Grade: None.
+Turn 7:
+> 6666
+Grade: None.
+Turn 8:
+> 7777
+Grade: None.
+Turn 9:
+> 8888
+Grade: None.
+Turn 10:
+> 9999
+Grade: None.
+Turn 11:
+> aaaa
+Grade: 1 bull(s).
+Turn 12:
+> bbbb
+Grade: 1 bull(s).
+Turn 13:
+> cccc
+Grade: None.
+Turn 14:
+> dddd
+Grade: None.
+Turn 15:
+> eeee
+Grade: 1 bull(s).
+Turn 16:
+> ffff
+Grade: 1 bull(s).
+Turn 17:
+> abef
+Grade: 4 bull(s).
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 6?[0m
+Input the length of the secret code:
+> 6
+Input the number of possible symbols in the code:
+> 36
+****** (0-9, a-z).
+The secret is prepared: ****** (0-9, a-z)..
+Okay, let's start a game!
+Turn 1:
+> 000000
+Grade: None.
+Turn 2:
+> 111111
+Grade: None.
+Turn 3:
+> 222222
+Grade: None.
+Turn 4:
+> 333333
+Grade: None.
+Turn 5:
+> 444444
+Grade: None.
+Turn 6:
+> 555555
+Grade: None.
+Turn 7:
+> 666666
+Grade: None.
+Turn 8:
+> 777777
+Grade: None.
+Turn 9:
+> 888888
+Grade: None.
+Turn 10:
+> 999999
+Grade: None.
+Turn 11:
+> aaaaaa
+Grade: 1 bull(s).
+Turn 12:
+> bbbbbb
+Grade: 1 bull(s).
+Turn 13:
+> cccccc
+Grade: 1 bull(s).
+Turn 14:
+> dddddd
+Grade: 1 bull(s).
+Turn 15:
+> eeeeee
+Grade: 1 bull(s).
+Turn 16:
+> ffffff
+Grade: 1 bull(s).
+Turn 17:
+> abcdef
+Grade: 6 bull(s).
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 7?[0m
+Input the length of the secret code:
+> 0
+Error: minimum number of possible symbols in the code is 1 (0-9, a-z).
+?[1;31m
+Start test 8?[0m
+Input the length of the secret code:
+> 10
+Input the number of possible symbols in the code:
+> 9
+Error: it's not possible to generate a code with a length of 6 with 5 unique symbols.
+?[1;31m
+Start test 9?[0m
+Input the length of the secret code:
+> 9
+Input the number of possible symbols in the code:
+> 37
+Error: maximum number of possible symbols in the code is 36 (0-9, a-z).
+?[1;31m
+Start test 10?[0m
+Input the length of the secret code:
+> abcdefg 1 -6
+"abcdefg 1 -6" isn't a valid number.
+Error: minimum number of possible symbols in the code is 1 (0-9, a-z).
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

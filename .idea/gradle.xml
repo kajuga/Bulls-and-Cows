@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task" />
+            <option value="$PROJECT_DIR$/Problems/Accounts" />
+            <option value="$PROJECT_DIR$/Problems/Area of a circle" />
+            <option value="$PROJECT_DIR$/Problems/Arithmetic average" />
+            <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Problems/Assignments" />
+            <option value="$PROJECT_DIR$/Problems/Assignments (1)" />
+            <option value="$PROJECT_DIR$/Problems/Binary search" />
+            <option value="$PROJECT_DIR$/Problems/Books" />
+            <option value="$PROJECT_DIR$/Problems/Celsius to Fahrenheit" />
+            <option value="$PROJECT_DIR$/Problems/Circle" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Counter" />
+            <option value="$PROJECT_DIR$/Problems/Desks" />
+            <option value="$PROJECT_DIR$/Problems/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Problems/Difference of times" />
+            <option value="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line" />
+            <option value="$PROJECT_DIR$/Problems/Distance" />
+            <option value="$PROJECT_DIR$/Problems/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Problems/Exponential expression" />
+            <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Problems/Find X" />
+            <option value="$PROJECT_DIR$/Problems/First digit" />
+            <option value="$PROJECT_DIR$/Problems/First, second, third" />
+            <option value="$PROJECT_DIR$/Problems/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Problems/Fix the program" />
+            <option value="$PROJECT_DIR$/Problems/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems/Fixing the main method (1)" />
+            <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Problems/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Problems/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Problems/Good rest on vacation" />
+            <option value="$PROJECT_DIR$/Problems/Grades" />
+            <option value="$PROJECT_DIR$/Problems/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Problems/Hello_" />
+            <option value="$PROJECT_DIR$/Problems/How many nuts each squirrel will get" />
+            <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Problems/Inner boxes" />
+            <option value="$PROJECT_DIR$/Problems/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Problems/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Problems/Maximum element divisible by four" />
+            <option value="$PROJECT_DIR$/Problems/Next even number" />
+            <option value="$PROJECT_DIR$/Problems/Numbers divisible by six" />
+            <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Problems/Print &quot;Hello, Java!&quot;" />
+            <option value="$PROJECT_DIR$/Problems/Print &quot;We are robots!&quot;" />
+            <option value="$PROJECT_DIR$/Problems/Printing a magic letter" />
+            <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Problems/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Problems/Representing time as a class" />
+            <option value="$PROJECT_DIR$/Problems/Reversing" />
+            <option value="$PROJECT_DIR$/Problems/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Problems/Size of parts" />
+            <option value="$PROJECT_DIR$/Problems/Snail" />
+            <option value="$PROJECT_DIR$/Problems/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Problems/Squirrels and nuts" />
+            <option value="$PROJECT_DIR$/Problems/Tens digit" />
+            <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game" />
+            <option value="$PROJECT_DIR$/Problems/The roots of an equation" />
+            <option value="$PROJECT_DIR$/Problems/The sum of digits" />
+            <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/We need to learn Java" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
